@@ -22,8 +22,8 @@ repository               : "nirzaree/nirzaree.github.io"
 author:
   # Biographic information
   avatar           : "profile_picture.jpg"
-  # name             : "Your Sidebar Name"
-  # pronouns         : # example: "she/her"  
+  name             : "Nirzaree"
+  pronouns         : "she/her"  
   # bio              : "Short biography for the left-hand sidebar"
   # location         : "Earth"
   # employer         : "Red Brick University"
