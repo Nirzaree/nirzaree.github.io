@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, my name is Nirzaree. I currently build algorithms for crop type detection at [CropIn Technologies](https://www.cropin.com/), Bangalore, India. I previously built algorithms for navigation and battery health for electric vehicles at [Ather Energy](https://www.atherenergy.com/), and algorithms for bicyclist safety at Lumos Design Technology. My overarching interest is in building technology for sustainability. 
+Hello, my name is Nirzaree. I currently build algorithms for crop type detection at [CropIn Technologies](https://www.cropin.com/), Bangalore, India. My experience over the last few years in industry has spanned a bunch of different areas (such as electric vehicles and wearable technology for cyclists), with an overarching interest in building technology for sustainability. 
 
 I am currently building two open source, participatory platforms aimed towards individual actions for sustainability:
 * [Sustainable Eateries](/platforms/) is a crowdsourced database of how sustainable are eateries across the globe
