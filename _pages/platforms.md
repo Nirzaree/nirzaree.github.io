@@ -9,6 +9,8 @@ author_profile: true
 
 ![](/images/sustainable_eateries.png)
 
-**[Urban Natural Farms](https://urbannaturalfarms.com/) is a platform to enable natural farming in urban vacant land parcels to grow food, mitigate impacts of climate change and for community building**.
+**[Urban Natural Farms](https://urbannaturalfarms.com/) is a framework, available through a digital platform ,to enable repurposing appropriate land in urban areas into various types of green spaces. Through these spaces, we aim to grow chemical free food for urban residents, mitigate certain impacts of climate change, create micro biodiversity hotspots along with community building around the sites.**
+
+The platform would enable deliberation between various stakeholders on preparing the blueprint for operations for each of the sites, for knowledge sharing through Q&A forum, and would also showcase analytics of long term impact of each of the farm sites on local environment (such as air quality, temperature, water table, soil organic carbon) and the community. 
 
 ![](/images/urban_natural_farms.jpg)

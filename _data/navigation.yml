@@ -8,8 +8,8 @@ main:
   - title: "Publications"
     url: /publications
 
-  - title: "CV"
-    url: /files/CV_Nirzaree.pdf
+  # - title: "CV"
+  #   url: /files/CV_Nirzaree.pdf
 
   - title: "Platforms"
     url: /platforms
@@ -23,8 +23,8 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  - title: "Blog"
-    url: /blog
+  - title: "Articles"
+    url: /articles
         
   # - title: "Guide"
   #   url: /markdown/
