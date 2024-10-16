@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /platforms
+permalink: /platforms/
 title: "Platforms"
 author_profile: true
 ---
