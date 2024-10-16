@@ -6,16 +6,16 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: /publications
 
   - title: "CV"
     url: /files/CV_Nirzaree.pdf
 
   - title: "Platforms"
-    url: /platforms/   
+    url: /platforms
 
   - title: "Talks"
-    url: /talks/    
+    url: /talks
 
   # - title: "Teaching"
   #   url: /teaching/    
@@ -24,7 +24,7 @@ main:
   #   url: /portfolio/
         
   - title: "Blog"
-    url: /blog/
+    url: /blog
         
   # - title: "Guide"
   #   url: /markdown/
