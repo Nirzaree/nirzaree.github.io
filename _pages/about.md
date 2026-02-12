@@ -15,4 +15,4 @@ I am currently building two open source, participatory platforms aimed towards i
 
 I have a master's degree in Electrical and Computer Engineering, with a specialization in Embedded Systems from [TU, Kaiserslautern](https://rptu.de/en/), Germany and an undergraduation in Electronics Engineering from [NIT, Surat](https://www.svnit.ac.in/), India. 
 
-My resume is [here](/files/CV_Nirzaree.pdf). 
+My resume is [here](/files/Resume_Nirzaree.pdf). 
